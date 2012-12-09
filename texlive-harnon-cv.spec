@@ -45,3 +45,11 @@ TeXLive harnon-cv package.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Aug 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 20120809-1
++ Revision: 813559
+- Import texlive-harnon-cv
+- Import texlive-harnon-cv
+
