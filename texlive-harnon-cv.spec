@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-harnon-cv
 Version:	20120809
-Release:	4
+Release:	5
 Summary:	TeXLive harnon-cv package
 Group:		Publishing
 URL:		http://tug.org/texlive
