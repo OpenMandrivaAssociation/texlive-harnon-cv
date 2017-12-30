@@ -5,7 +5,7 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-harnon-cv
-Version:	20170414
+Version:	1.0
 Release:	1
 Summary:	TeXLive harnon-cv package
 Group:		Publishing
