@@ -1,6 +1,6 @@
 Name:		texlive-harnon-cv
 Version:	26543
-Release:	1
+Release:	2
 Summary:	TeXLive harnon-cv package
 Group:		Publishing
 URL:		http://tug.org/texlive
